@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "name": "Derek Lesch Sr.",
+    "phone": "1-503-228-7422 x330",
+    "email": "Jon_Nicolas@hotmail.com",
+    "job": "Legacy Response Facilitator"
+  },
+  {
+    "name": "Andre Carroll",
+    "phone": "1-267-812-5357 x573",
+    "email": "Toby97@gmail.com",
+    "job": "Future Optimization Planner"
+  },
+  {
+    "name": "Kimberly DuBuque",
+    "phone": "991-959-6913",
+    "email": "Luisa35@yahoo.com",
+    "job": "District Security Engineer"
+  },
+  {
+    "name": "Stewart Wiza-Hilpert I",
+    "phone": "895.244.0437 x58627",
+    "email": "Jaden62@yahoo.com",
+    "job": "Investor Response Facilitator"
+  },
+  {
+    "name": "Evelyn Nicolas",
+    "phone": "258.309.6941 x9386",
+    "email": "Hardy_Hickle78@gmail.com",
+    "job": "Direct Intranet Liaison"
+  }
+]
